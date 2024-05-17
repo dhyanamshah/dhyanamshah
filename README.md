@@ -1,4 +1,4 @@
-Hi 👋 My name is Dhyanam Shah
+Hi 👋 I am Dhyanam Shah
 =============================
 
 *   🌍  I'm based in Mumbai
