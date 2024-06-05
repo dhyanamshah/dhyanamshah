@@ -1,7 +1,6 @@
-Hi 👋 I am Dhyanam Shah
+Hi 👋 I'm Dhyanam
 =============================
 
-*   🌍  I'm based in Mumbai
 *   📫 How to reach me: [Discord](https://discord.com/users/814152568552030208) | [Mail](mailto:dhyanamshah222@gmail.com)
 *   🧠  I'm learning Java, PHP and Python
 *   🤝  I'm open to collaborating on new programming and tinkering projects
