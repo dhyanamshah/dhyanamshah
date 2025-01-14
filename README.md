@@ -2,7 +2,7 @@ Hi 👋 I'm Dhyanam
 =============================
 
 *   📫 How to reach me: [Discord](https://discord.com/users/814152568552030208) | [Mail](mailto:dhyanamshah222@gmail.com)
-*   🧠  I'm learning Java, PHP and Python
+*   🧠  I'm learning C, C++ and Python
 *   🤝  I'm open to collaborating on new programming and tinkering projects
 <h3> Skills </h3>
 <p align="left">
